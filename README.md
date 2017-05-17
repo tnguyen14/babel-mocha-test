@@ -1,5 +1,7 @@
 # babel-mocha-test
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tnguyen14/babel-mocha-test.svg)](https://greenkeeper.io/)
+
 > Illustrate an issue with running mocha test written in ES2015 syntax with babel
 
 When running with node 0.12, the following error is encountered:
